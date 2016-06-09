@@ -1,12 +1,7 @@
 """
-Description:
-Python script to identify if a given number is a happy number or not.
-
-Source:
-Happy Number Wiki: https://en.wikipedia.org/wiki/Happy_number
-
-Author:
-Shivam Gupta (shivamvmc@gmail.com)
+Description: Python script to identify if a given number is a happy number or not.
+Source: Happy Number Wiki: https://en.wikipedia.org/wiki/Happy_number
+Author: Shivam Gupta (shivamvmc@gmail.com)
 """
 
 def get_digits(n):
