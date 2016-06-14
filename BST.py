@@ -45,7 +45,6 @@ class TreeNode:
         if self.hasRightChild():
             self.rightChild.parent = self
 
-
 class BinarySearchTree:
 
     def __init__(self):
