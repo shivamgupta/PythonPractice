@@ -1,3 +1,8 @@
+"""
+Description: Python script for Binary Search Tree.
+Source: http://interactivepython.org/runestone/static/pythonds/Trees/SearchTreeImplementation.html
+"""
+
 class TreeNode:
     def __init__(self,key,val,left=None,right=None,parent=None):
         self.key = key
